@@ -1,6 +1,6 @@
 # create tower
 fill -30 1 25 -38 96 23 minecraft:obsidian
-fill -30 1 26 -37 96 22 minecraft:obsidian
+fill -31 1 26 -37 96 22 minecraft:obsidian
 fill -32 1 27 -36 96 21 minecraft:obsidian
 fill -33 1 28 -35 96 20 minecraft:obsidian
 
