@@ -9,3 +9,4 @@ scoreboard objectives add cot_towerNo7 dummy
 scoreboard objectives add cot_towerNo8 dummy
 scoreboard objectives add cot_towerNo9 dummy
 scoreboard objectives add cot_towerNo10 dummy
+# scoreboard objectives add cot_towerNo11 dummy

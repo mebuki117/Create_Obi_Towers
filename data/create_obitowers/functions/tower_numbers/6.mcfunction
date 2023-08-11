@@ -9,6 +9,7 @@ execute at @e[type=minecraft:armor_stand,limit=1,tag=cot_dummy] if score cot_dum
 execute at @e[type=minecraft:armor_stand,limit=1,tag=cot_dummy] if score cot_dummy cot_towerNo6 matches 97 run function create_obitowers:towers/t97
 execute at @e[type=minecraft:armor_stand,limit=1,tag=cot_dummy] if score cot_dummy cot_towerNo6 matches 100 run function create_obitowers:towers/t100
 execute at @e[type=minecraft:armor_stand,limit=1,tag=cot_dummy] if score cot_dummy cot_towerNo6 matches 103 run function create_obitowers:towers/tall_boy
+# execute at @e[type=minecraft:armor_stand,limit=1,tag=cot_dummy] if score cot_dummy cot_towerNo6 matches 125 run function create_obitowers:towers/custom1
 
 # kill dummy
 kill @e[type=minecraft:armor_stand,limit=1,tag=cot_dummy]

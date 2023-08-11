@@ -9,3 +9,4 @@ summon minecraft:armor_stand -34 1 -25 {Tags:["cot_dummy"]}
 summon minecraft:armor_stand -13 1 -40 {Tags:["cot_dummy"]}
 summon minecraft:armor_stand 12 1 -40 {Tags:["cot_dummy"]}
 summon minecraft:armor_stand 33 1 -25 {Tags:["cot_dummy"]}
+# summon minecraft:armor_stand 0 1 0 {Tags:["cot_dummy"]}

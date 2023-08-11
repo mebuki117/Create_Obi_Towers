@@ -9,3 +9,4 @@ scoreboard players set cot_dummy cot_towerNo7 82
 scoreboard players set cot_dummy cot_towerNo8 79
 scoreboard players set cot_dummy cot_towerNo9 94
 scoreboard players set cot_dummy cot_towerNo10 103
+# scoreboard players set cot_dummy cot_towerNo11 125
