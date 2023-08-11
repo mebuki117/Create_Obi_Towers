@@ -6,7 +6,7 @@
 
 ## 設定
 `create_obitowers\functions\setup\settings`で、各塔のタイプを変更出来ます。  
-`create_obitowers\functions\setup\summon_dummy`で、各塔の生成座標を変更出来ます。
+`create_obitowers\functions\setup\creation_potision`で、各塔の生成座標を変更出来ます。
 
 ## 拡張性
 うまいことやれば色々やれます。各ファイルにコメントアウトしたサンプルが置いてあります。
