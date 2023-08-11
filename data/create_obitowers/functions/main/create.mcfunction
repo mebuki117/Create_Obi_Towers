@@ -1,0 +1,10 @@
+schedule function create_obitowers:towers/small_boy 1t replace
+schedule function create_obitowers:towers/small_cage 1t replace
+schedule function create_obitowers:towers/tall_cage 1t replace
+schedule function create_obitowers:towers/m85 1t replace
+schedule function create_obitowers:towers/m88 1t replace
+schedule function create_obitowers:towers/m91 1t replace
+schedule function create_obitowers:towers/t94 1t replace
+schedule function create_obitowers:towers/t97 1t replace
+schedule function create_obitowers:towers/t100 1t replace
+schedule function create_obitowers:towers/tall_boy 1t replace
