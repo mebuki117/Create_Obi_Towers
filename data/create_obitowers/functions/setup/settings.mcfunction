@@ -1,4 +1,4 @@
-# set tower type to tower number. you can change a tower type (76 = small boy, 79 = small cage, 82 = tall cage, 103 = tall boy)
+# set tower type to tower number (clockwise from the east). you can change a tower type (76 = small boy, 79 = small cage, 82 = tall cage, 103 = tall boy)
 scoreboard players set cot_dummy cot_towerNo1 76
 scoreboard players set cot_dummy cot_towerNo2 88
 scoreboard players set cot_dummy cot_towerNo3 91
