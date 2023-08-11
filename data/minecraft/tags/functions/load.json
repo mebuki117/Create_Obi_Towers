@@ -1,0 +1,6 @@
+{
+    "values": [
+        "create_obitowers:setup/load",
+        "create_obitowers:setup/settings"
+    ]
+}

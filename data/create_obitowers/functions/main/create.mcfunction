@@ -1,10 +1,14 @@
-schedule function create_obitowers:towers/small_boy 1t replace
-schedule function create_obitowers:towers/small_cage 1t replace
-schedule function create_obitowers:towers/tall_cage 1t replace
-schedule function create_obitowers:towers/m85 1t replace
-schedule function create_obitowers:towers/m88 1t replace
-schedule function create_obitowers:towers/m91 1t replace
-schedule function create_obitowers:towers/t94 1t replace
-schedule function create_obitowers:towers/t97 1t replace
-schedule function create_obitowers:towers/t100 1t replace
-schedule function create_obitowers:towers/tall_boy 1t replace
+# setup
+function create_obitowers:setup/summon_dummy
+
+# create towers
+function create_obitowers:tower_numbers/1
+function create_obitowers:tower_numbers/2
+function create_obitowers:tower_numbers/3
+function create_obitowers:tower_numbers/4
+function create_obitowers:tower_numbers/5
+function create_obitowers:tower_numbers/6
+function create_obitowers:tower_numbers/7
+function create_obitowers:tower_numbers/8
+function create_obitowers:tower_numbers/9
+function create_obitowers:tower_numbers/10

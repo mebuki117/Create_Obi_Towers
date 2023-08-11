@@ -1,10 +1,10 @@
 # create tower
-fill 15 1 38 9 90 40 minecraft:obsidian
-fill 14 1 37 10 90 41 minecraft:obsidian
-fill 13 1 36 11 90 42 minecraft:obsidian
+fill ~3 1 ~-1 ~-3 90 ~1 minecraft:obsidian
+fill ~2 1 ~-2 ~-2 90 ~2 minecraft:obsidian
+fill ~1 1 ~-3 ~-1 90 ~3 minecraft:obsidian
 
 # set bedrock
-setblock 12 91 39 minecraft:bedrock
+setblock ~ 91 ~ minecraft:bedrock
 
 # set end_crystal
-summon minecraft:end_crystal 12 92 39
+summon minecraft:end_crystal ~ 92 ~
