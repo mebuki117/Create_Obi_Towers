@@ -7,7 +7,7 @@ fill ~2 82 ~2 ~-2 85 ~-2 minecraft:iron_bars
 fill ~1 82 ~1 ~-1 84 ~-1 minecraft:air
 
 # set bedrock
-setblock -34 82 -25 minecraft:bedrock
+setblock ~ 82 ~ minecraft:bedrock
 
 # set end_crystal
-summon minecraft:end_crystal -34 83 -25
+summon minecraft:end_crystal ~ 83 ~
